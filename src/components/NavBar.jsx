@@ -10,7 +10,7 @@ const NavBar = () => {
       </div>
       <div className='flex'>
         <div><BigButton onclick={onclick} title="Get Started" /></div>
-        <div className='p-2 ml-2 text-5xl hover:cursor-pointer'><IoMdMenu /></div>
+        {/* <div className='p-2 ml-2 text-5xl hover:cursor-pointer'><IoMdMenu /></div> */}
       </div>
     </div>
   )
