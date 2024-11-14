@@ -34,7 +34,6 @@ const Body = () => {
 
       <div className={`bg-gray-200 mt-[5vh] w-[80%] text-center text-3xl font-[500] leading-[1.6] rounded-lg p-10 h-[30vh] `}>
         <div>
-          
         </div>
       </div>
     </div>
